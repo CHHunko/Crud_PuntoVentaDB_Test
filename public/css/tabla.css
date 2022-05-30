@@ -1,0 +1,11 @@
+thead {
+    display:block;
+  }
+  tbody {
+    display:block;
+    overflow-y:scroll;
+    height:200px;
+  }
+  td, th {
+    width: 200px;
+  }

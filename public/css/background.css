@@ -1,0 +1,11 @@
+body {
+    background: url("../3898677.jpg") no-repeat;
+    background-size: inherit;
+  }
+
+  @media (min-width: 1920px) {
+    body {
+      background: url("../3898677.jpg") no-repeat;
+      background-size: cover;
+    }
+  }
